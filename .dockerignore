@@ -1,0 +1,11 @@
+.git
+.gitignore
+.env*
+node_modules
+.next
+out
+build
+coverage
+*.md
+.DS_Store
+.claude
